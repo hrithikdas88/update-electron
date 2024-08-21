@@ -1,12 +1,12 @@
-version: 1.1.2
+version: 1.1.3
 files:
-  - url: time-tracker-electron-1.1.2.AppImage
-    sha512: wfYP8tvC3NwnOKFUf7WtvSrdUnL6uRFBfuByjL+Exi/nz2ClbTSC2GNM0j4cjSNobbeOzNdv+LyJ2tLomFSRrg==
-    size: 137561048
-    blockMapSize: 140268
-  - url: time-tracker-electron_1.1.2_amd64.deb
-    sha512: 2W5e/8wlZo5RFBXGiKwnhzetz7JUYkW8V8EbAhJh8egM768Yyveuc5r605k8MtPVGlo6fBGYjYoqC/UA3TYL1Q==
-    size: 88854398
-path: time-tracker-electron-1.1.2.AppImage
-sha512: wfYP8tvC3NwnOKFUf7WtvSrdUnL6uRFBfuByjL+Exi/nz2ClbTSC2GNM0j4cjSNobbeOzNdv+LyJ2tLomFSRrg==
-releaseDate: '2024-08-21T10:08:54.189Z'
+  - url: time-tracker-electron-1.1.3.AppImage
+    sha512: gAkaFb+S7oI3AjW+3IHE/vAUkuI4SV4U3POZeHO0GeCGn/ywDDWrWcIHKDQnI+v0PROA2Fg5NkCydPFctTjUtw==
+    size: 137561075
+    blockMapSize: 140295
+  - url: time-tracker-electron_1.1.3_amd64.deb
+    sha512: 7QCtJ2JTPpFE4fsQV3lFJ5hU8HyV8tMox61AmkCQNDEQefIJDa3eALq+RxUaQxKB4YkSaHWsfG17WlWKVEHOkQ==
+    size: 88877228
+path: time-tracker-electron-1.1.3.AppImage
+sha512: gAkaFb+S7oI3AjW+3IHE/vAUkuI4SV4U3POZeHO0GeCGn/ywDDWrWcIHKDQnI+v0PROA2Fg5NkCydPFctTjUtw==
+releaseDate: '2024-08-21T10:48:08.095Z'
